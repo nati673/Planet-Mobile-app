@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hp/AndroidStudioProjects/NatiPlanetApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.239" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/NatiPlanetApp/app/src/main/res/drawable/bg_footer.xml" value="0.2455" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/NatiPlanetApp/app/src/main/res/drawable/bg_header.xml" value="0.2645" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/NatiPlanetApp/app/src/main/res/drawable/ic_earth.xml" value="0.239" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/NatiPlanetApp/app/src/main/res/drawable/ic_jupiter.xml" value="0.158" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/NatiPlanetApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.239" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/NatiPlanetApp/app/src/main/res/drawable/ic_mars.xml" value="0.158" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/NatiPlanetApp/app/src/main/res/drawable/ic_mercury.xml" value="0.239" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/NatiPlanetApp/app/src/main/res/drawable/ic_moon.xml" value="0.239" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/NatiPlanetApp/app/src/main/res/drawable/ic_neptune.xml" value="0.239" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/NatiPlanetApp/app/src/main/res/drawable/ic_saturn.xml" value="0.239" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/NatiPlanetApp/app/src/main/res/drawable/ic_sun.xml" value="0.158" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/NatiPlanetApp/app/src/main/res/drawable/ic_uranus.xml" value="0.239" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/NatiPlanetApp/app/src/main/res/drawable/ic_venus.xml" value="0.239" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/NatiPlanetApp/app/src/main/res/layout/activity_final.xml" value="0.26079521162890124" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/NatiPlanetApp/app/src/main/res/layout/activity_main.xml" value="0.26079521162890124" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/NatiPlanetApp/app/src/main/res/layout/activity_planet_detail.xml" value="0.26079521162890124" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/NatiPlanetApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/NatiPlanetApp/app/src/main/res/layout/view.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
